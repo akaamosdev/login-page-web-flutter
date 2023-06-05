@@ -1,16 +1,7 @@
 # login_form_web
 
-A new Flutter project.
+# Bonjour je suis Amos Aka programmeur informatique 
+Dans ce projet je vous créer une page de connexion avec flutter.
+je pense cela vous sera utile.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pour plus d'information veuillez me contactez au +225 05 55 95 45 33
